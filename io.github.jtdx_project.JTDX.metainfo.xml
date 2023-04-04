@@ -5,11 +5,11 @@
     <provides>
         <id>jtdx.desktop</id>
     </provides>
-    <summary>jtdx (forked WSJT-x for amateur radio communication)</summary>
+    <summary>jtdx (forked WSJT-X for amateur radio communication)</summary>
     <developer_name>Arvo Järve</developer_name>
     <description>
         <p>
-            JTDX is a forked from WSJT-X, a computer program dedicated to amateur communication using very weak signals.
+            JTDX is a fork of WSJT-X, a computer program dedicated to amateur communication using very weak signals.
         </p>
     </description>
     <categories>
@@ -18,7 +18,6 @@
     <metadata_license>CC0-1.0</metadata_license>
     <project_license>GPL-3.0+</project_license>
     <url type="homepage">https://github.com/jtdx-project/jtdx</url>
-    <project_group>none</project_group>
     <screenshots>
         <screenshot type="default">
             <caption>Main JTDX window</caption>
